@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+ <head>
+<!--we are using internal css for enhancement-->
+ <style>
+ body {
+ font-family: 'Raleway', sans-serif;
+ text-align: center;
+ justify-content: space-around;
+ height: 100%;
+ align-items: center;
+ background: linear-gradient(#E0B4F1, white, #E5C6F1);
+ /*This will give background color in gradient effect*/
+ }
+ </style>
+ </head>
+ <body align="center">
+<h1 style="text-align:center;"><u>My School</u></h1>
+<img src="https://www.bing.com/images/search?view=detailV2&ccid=LA3fa5Bb&id=0267BEF130AB783DD60D3120A3FADD149C03C76B&thid=OIP.LA3fa5BbQquf392d_94PTAHaE2&mediaurl=https%3a%2f%2fwww.newsclick.in%2fsites%2fdefault%2ffiles%2f2017-12%2fWebp.net-resizeimage_9.png&exph=647&expw=989&q=indian+school+images&simid=607993668241940136&FORM=IRPRST&ck=5870085A97DD8F7838132DF5E891C155&selectedIndex=18" alt="school" width="260" height="160">
+<h2> My school's name is ABC School</h2>
+<p>My school was established in 1990 <br> My school have many branches across India <br> We have many practical labs and a big library
+<br> Our all teachers and staff is very friendly <br>Education a necessity is our tagline </p>
+<h1> Gallery </h1>
+<img src="https://www.bing.com/images/search?view=detailV2&ccid=dfRQVq9f&id=621164CAD57C664D1E03C1453B681B9488F94727&thid=OIP.dfRQVq9fwdfWPpIitJerBgHaE8&mediaurl=https%3a%2f%2fwww.visualsstock.com%2fimages%2fLow%2f5%2fAK61283.jpg&exph=600&expw=900&q=indian+school+images&simid=608054119900075692&FORM=IRPRST&ck=07E06BB9C79FE6C6E4F6D5E69A79737C&selectedIndex=21" alt="school1" width="260" height="160">
+<img src="https://www.bing.com/images/search?view=detailV2&ccid=zjv4l8Id&id=0201100DA95C02B37C47669A641FB0DE29A60581&thid=OIP.zjv4l8IdwTOUD4-SmWu9wAHaE7&mediaurl=https%3a%2f%2fthumbs.dreamstime.com%2fb%2findian-schoolgirls-classroom-mysore-india-february-several-uniform-sitting-bench-their-mysore-girls-school-circa-33278297.jpg&exph=533&expw=800&q=indian+school+images&simid=608043180623271943&FORM=IRPRST&ck=DC40EFD9007CA30BACA340BAAC272BD3&selectedIndex=42" alt="school2" width="260" height="160">
+<img src="https://www.bing.com/images/search?view=detailV2&ccid=cyUL0ZDS&id=5A6B6E8BD254676BBF701A3493F1CA6FB2FD6136&thid=OIP.cyUL0ZDSWCMEgx8C874NzwHaFc&mediaurl=https%3a%2f%2fc8.alamy.com%2fcomp%2fK6P32T%2fgroup-indian-school-kids-students-books-studying-in-library-K6P32T.jpg&exph=956&expw=1300&q=indian+school+images&simid=608003662623762592&FORM=IRPRST&ck=C701B9F0DBA66E552D6E997AA9BC7621&selectedIndex=45" alt="school3" width="260" height="160">
+ </body>
+</html>
